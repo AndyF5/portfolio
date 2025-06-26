@@ -196,14 +196,17 @@ const Portfolio: React.FC = () => {
             </div>
             <div>
               <p className="text-lg text-gray-600 mb-6">
-                I'm a passionate full-stack developer with 5+ years of
-                experience building web applications. I love turning complex
-                problems into simple, beautiful solutions.
+                I'm a passionate full-stack developer with 5 years of experience
+                building web applications. I am expecially motivated when
+                delivering features that truly provide value to users.
               </p>
               <p className="text-lg text-gray-600 mb-6">
-                When I'm not coding, you can find me exploring new technologies,
-                contributing to open source projects, or sharing knowledge with
-                the developer community.
+                I have experience across the full stack from React applications
+                to Node.js backends to infrastucture on AWS and GCP.
+              </p>
+              <p className="text-lg text-gray-600 mb-6">
+                I have also taken on the role of Scrum Master and am well versed
+                in Agile and Scrum techniques.
               </p>
               <div className="flex flex-wrap gap-4">
                 <span className="px-4 py-2 bg-blue-100 text-blue-800 rounded-full">
