@@ -1,13 +1,5 @@
 import React, { useState } from "react";
-import {
-  Mail,
-  ExternalLink,
-  Menu,
-  X,
-  Code,
-  Briefcase,
-  User,
-} from "lucide-react";
+import { Mail, ExternalLink, Menu, X, Code, Briefcase } from "lucide-react";
 import Github from "./Github";
 import Linkedin from "./Linkedin";
 
@@ -151,7 +143,7 @@ const Portfolio: React.FC = () => {
           <div className="text-center">
             <div className="mb-8">
               <div className="w-32 h-32 bg-gray-300 rounded-full mx-auto mb-6 flex items-center justify-center">
-                <User size={48} className="text-gray-600" />
+                <img src="./Avatar.jpeg" alt="" className="rounded-full" />
               </div>
             </div>
             <h1 className="text-4xl md:text-6xl font-bold text-gray-900 mb-6">
